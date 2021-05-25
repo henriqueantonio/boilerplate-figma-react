@@ -1,5 +1,9 @@
-# Boilerplate Figma React
+# Boilerplate Figma React with hot reload
 
-- Create your figma code inside code folder or link to code/index.ts
+## This project is a customized version of [yusinto](https://github.com/yusinto/react-graphql-figma-plugin) template.
 
-- Create your ui code inside ui folfoder or link to ui/index.ts
+- [For running purposes](https://www.reactjunkie.com/react-graphql-figma-plugin)
+
+- Create your figma code inside code folder or link to **code/index.ts**
+
+- Create your ui code inside ui folfoder or link to **ui/index.ts**
